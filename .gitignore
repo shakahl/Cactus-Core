@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+Release/
+Debug/
+1. Files/
+Entries.json
+LastRequiredFiles.json
